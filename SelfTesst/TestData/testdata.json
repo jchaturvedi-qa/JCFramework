@@ -1,0 +1,12 @@
+{
+  "TestcaseName1": [
+    {
+      "userName": "test1param1val1"
+    },
+    {
+      "userName": "test2param2val2"
+    }
+
+  ]
+}
+
